@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Books.Api", "Books.Api\Books.Api.csproj", "{407F4847-85B6-4F53-8124-DA101C4934E8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookCovers.API", "BookCovers.API\BookCovers.API.csproj", "{D3270FB9-71F4-4DF8-BDA9-A10EE3DCE61C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{407F4847-85B6-4F53-8124-DA101C4934E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{407F4847-85B6-4F53-8124-DA101C4934E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{407F4847-85B6-4F53-8124-DA101C4934E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{407F4847-85B6-4F53-8124-DA101C4934E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3270FB9-71F4-4DF8-BDA9-A10EE3DCE61C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3270FB9-71F4-4DF8-BDA9-A10EE3DCE61C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3270FB9-71F4-4DF8-BDA9-A10EE3DCE61C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3270FB9-71F4-4DF8-BDA9-A10EE3DCE61C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D65CF9A-9BF8-4987-AA11-9F885FFB8CC7}
+	EndGlobalSection
+EndGlobal

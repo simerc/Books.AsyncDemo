@@ -1,0 +1,15 @@
+c:\projects\pluralsight\Books\Books.Api\bin\Debug\netcoreapp2.1\Books.Api.deps.json
+c:\projects\pluralsight\Books\Books.Api\bin\Debug\netcoreapp2.1\Books.Api.runtimeconfig.json
+c:\projects\pluralsight\Books\Books.Api\bin\Debug\netcoreapp2.1\Books.Api.runtimeconfig.dev.json
+c:\projects\pluralsight\Books\Books.Api\bin\Debug\netcoreapp2.1\Books.Api.dll
+c:\projects\pluralsight\Books\Books.Api\bin\Debug\netcoreapp2.1\Books.Api.pdb
+c:\projects\pluralsight\Books\Books.Api\obj\Debug\netcoreapp2.1\Books.Api.csproj.CoreCompileInputs.cache
+c:\projects\pluralsight\Books\Books.Api\obj\Debug\netcoreapp2.1\Books.Api.RazorAssemblyInfo.cache
+c:\projects\pluralsight\Books\Books.Api\obj\Debug\netcoreapp2.1\Books.Api.RazorAssemblyInfo.cs
+c:\projects\pluralsight\Books\Books.Api\obj\Debug\netcoreapp2.1\Books.Api.AssemblyInfoInputs.cache
+c:\projects\pluralsight\Books\Books.Api\obj\Debug\netcoreapp2.1\Books.Api.AssemblyInfo.cs
+c:\projects\pluralsight\Books\Books.Api\obj\Debug\netcoreapp2.1\Books.Api.RazorTargetAssemblyInfo.cache
+c:\projects\pluralsight\Books\Books.Api\obj\Debug\netcoreapp2.1\Books.Api.dll
+c:\projects\pluralsight\Books\Books.Api\obj\Debug\netcoreapp2.1\Books.Api.pdb
+c:\projects\pluralsight\Books\Books.Api\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+c:\projects\pluralsight\Books\Books.Api\obj\Debug\netcoreapp2.1\Books.Api.csprojAssemblyReference.cache

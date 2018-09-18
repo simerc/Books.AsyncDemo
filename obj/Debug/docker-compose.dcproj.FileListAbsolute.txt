@@ -1,0 +1,1 @@
+c:\projects\pluralsight\Books\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
